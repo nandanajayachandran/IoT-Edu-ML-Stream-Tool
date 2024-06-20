@@ -1,5 +1,5 @@
 # IoT-Edu-ML-Stream-Tool
-* Educational GUI Tool
+* Educational GUI Tool integrating IoT data generation, real time big data platforms and Macine learning.
 
 IoT-Edu-ML-Stream-Tool is a robust educational tool designed to simulate IoT environments, generate realistic sensor data, handle hardware-generated IoT data, and integrate with big data platforms for machine learning and data analysis.
 
@@ -7,14 +7,14 @@ IoT-Edu-ML-Stream-Tool is a robust educational tool designed to simulate IoT env
 
 ## Features
 
-- User-Friendly Interface
-- Real or Emulated Network
-- Realistic Data Generation
-- Continuous Data Monitoring
-- Seamless Integration with Big Data Platforms
-- Machine Learning Model Deployment
+- User-Friendly interface
+- Real or emulated network
+- Realistic data generation
+- Continuous data monitoring
+- Seamless integration with Big Data platforms
+- Machine learning model deployment
 - Scalability
-- Customizability and Extendibility
+- Customizability and extendibility
 
 ---
 
