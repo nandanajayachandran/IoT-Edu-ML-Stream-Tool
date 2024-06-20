@@ -32,6 +32,7 @@ Ensure you have the following installed:
 
 - **Kafka**: [Download Kafka](https://kafka.apache.org/downloads)
   - Follow the [Kafka Quickstart Guide]((https://kafka.apache.org/quickstart)) for installation and setup instructions.
+  - [Kafka Ubuntu Installation](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-20-04))
 
 - **MQTT**: 
   - We use the `paho-mqtt` library in Python. Install it using `pip`:
