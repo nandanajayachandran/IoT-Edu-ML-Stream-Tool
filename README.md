@@ -32,6 +32,27 @@ Download the folder containin the files from the following OneDrive link:
 
 [Access Code on OneDrive](https://alumniuaeuac-my.sharepoint.com/:f:/r/personal/nandanaj_uaeu_ac_ae/Documents/IoT-Edu-ML-Stream?csf=1&web=1&e=vBmeJZ)
 
+## IoT-Edu-ML-Stream
+
+This folder contains essential files and scripts for the IoT-Edu-ML-Stream project. Below is a description of the contents within the 'IoT-Edu-ML-Stream' folder located in the above OneDrive link:
+
+### Folder Contents:
+
+- **'init.py'**: Initialization script for the project.
+- **'1.csv'**: Sample CSV data file.
+- **Kafka Files**:
+  - 'producer.py': Script to produce messages to Kafka.
+  - 'consumer.py': Script to consume messages from Kafka.
+  - 'shared_kafka_topic_txt': Text file containing Kafka topic information.
+  - 'stream.py': Script for streaming data.
+  - 'kafka.py': Kafka main file.
+- **Data Generation Files**:
+  - 'data generation.py': Script for generating IoT data.
+  - 'trained_rf_model.pkl': Pre-trained model weights.
+- **'confi.yaml'**: Configuration file.
+- **'utils.py'**: Utility functions used across the project.
+- Also the images used in the GUI
+
 ### Step 2: Install Required Python Packages
 ### Prerequisites
 
