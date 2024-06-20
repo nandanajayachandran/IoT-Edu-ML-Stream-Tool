@@ -30,7 +30,7 @@ Ensure you have the following installed:
     ```
 
 - **Kafka**: [Download Kafka](https://kafka.apache.org/downloads)
-  - Follow the [Kafka Quickstart Guide](https://kafka.apache.org/quickstart) for installation and setup instructions.
+  - Follow the [Kafka Quickstart Guide]((https://kafka.apache.org/quickstart)) for installation and setup instructions.
 
 - **MQTT**: 
   - We use the `paho-mqtt` library in Python. Install it using `pip`:
@@ -40,3 +40,15 @@ Ensure you have the following installed:
     ---
 ## Development Environment
 The entire tool was designed using Visual Studio Code and supports any Python platform.
+
+---
+
+
+
+
+
+
+
+
+
+
