@@ -29,7 +29,7 @@ The entire tool was designed using Visual Studio Code and supports any Python pl
 Download the folder containing the files from the following OneDrive link:
 
 [Access Code on OneDrive](https://alumniuaeuac-my.sharepoint.com/:f:/r/personal/nandanaj_uaeu_ac_ae/Documents/IoT-Edu-ML-Stream?csf=1&web=1&e=ZowPbV)
-To get access, please send an email to "atef.abdrabou@uaeu.ac.ae" or "nandanaj@uaeu.ac.ae" 
+- To get access, please send an email to "atef.abdrabou@uaeu.ac.ae" or "nandanaj@uaeu.ac.ae" 
 
 ### Folder Name: IoT-Edu-ML-Stream
 
