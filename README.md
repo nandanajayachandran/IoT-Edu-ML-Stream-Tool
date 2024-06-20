@@ -4,8 +4,6 @@ A GUI tool integrating IoT data generation, real time big data platforms and Mac
 
 IoT-Edu-ML-Stream-Tool is an educational tool designed to emulate IoT environments, generate realistic sensor data, handle hardware-generated IoT data, and integrate with big data platforms for machine learning and data analysis.
 
----
-
 ## Features
 
 - User-Friendly interface
@@ -80,11 +78,11 @@ Ensure you have the following installed:
     ```bash
     pip install pyqt6
     ```
-    ---
+  
 ## Step 3: Start Kafka Server
 
 - Follow the Kafka Quickstart Guide to start the Kafka server. [Kafka Quickstart Guide](https://kafka.apache.org/quickstart)
----
+
 ## Step 4: Run the Tool
 ```bash
 python main.py
