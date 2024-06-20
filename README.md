@@ -43,7 +43,7 @@ Ensure you have the following installed:
     ```
 
 - **Kafka 3.6.0**: [Download Kafka](https://kafka.apache.org/downloads)
-  - Follow the [Kafka quick start guide]((https://kafka.apache.org/quickstart)) for installation and setup instructions.
+  - Follow the [Kafka Quickstart Guide]((https://kafka.apache.org/quickstart)) for installation and setup instructions.
   - [Kafka Ubuntu Installation](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-20-04))
 
 - **MQTT- mosquitto 2.0.11**: 
@@ -59,9 +59,10 @@ Ensure you have the following installed:
     ```
     ---
 ## Step 3: Start Kafka Server
-Follow the Kafka quick start guide to start the Kafka server. [Kafka quick start guide]((https://kafka.apache.org/quickstart))
+Follow the Kafka Quickstart Guide to start the Kafka server. [Kafka Quickstart Guide]((https://kafka.apache.org/quickstart))
 
 ## Step 4: Run the Tool
+
     ```bash
     python main.py
     ```
