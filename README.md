@@ -32,7 +32,7 @@ Download the folder containin the files from the following OneDrive link:
 
 [Access Code on OneDrive](https://alumniuaeuac-my.sharepoint.com/:f:/r/personal/nandanaj_uaeu_ac_ae/Documents/IoT-Edu-ML-Stream?csf=1&web=1&e=ZowPbV)
 
-## IoT-Edu-ML-Stream
+### Folder Name: IoT-Edu-ML-Stream
 
 This folder contains essential files and scripts for the IoT-Edu-ML-Stream project. Below is a description of the contents within the 'IoT-Edu-ML-Stream' folder located in the above OneDrive link:
 
