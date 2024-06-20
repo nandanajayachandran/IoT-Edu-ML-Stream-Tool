@@ -50,7 +50,8 @@ This folder contains essential files and scripts for the IoT-Edu-ML-Stream proje
   - 'data generation.py': Script for generating IoT data.
   - 'trained_rf_model.pkl': Pre-trained model weights.
 - **'confi.yaml'**: Configuration file.
-- **'utils.py'**: Utility functions used across the project.
+- **'utils.py'**: Utility functions used in the project.
+- **'main.py'** : The main file.
 - Also the images used in the GUI
 
 ### Step 2: Install Required Python Packages
