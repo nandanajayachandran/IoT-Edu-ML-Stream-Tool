@@ -30,7 +30,7 @@ The entire tool was designed using Visual Studio Code and supports any Python pl
 
 Download the code files from the following OneDrive link:
 
-[Access Code on OneDrive]((https://alumniuaeuacmy.sharepoint.com/:f:/g/personal/nandanaj_uaeu_ac_ae/Ej4SlW4hUn5DtKkOzSifgJ4B3F2ooGW0E8ch3pawRTb8bQ?e=SiZttO))
+[Access Code on OneDrive](https://alumniuaeuacmy.sharepoint.com/:f:/g/personal/nandanaj_uaeu_ac_ae/Ej4SlW4hUn5DtKkOzSifgJ4B3F2ooGW0E8ch3pawRTb8bQ?e=SiZttO)
 
 ### Step 2: Install Required Python Packages
 ### Prerequisites
@@ -44,11 +44,11 @@ Ensure you have the following installed:
     ```
 
 - **Kafka 3.6.0**: [Download Kafka](https://kafka.apache.org/downloads)
-  - Follow the [Kafka Quickstart Guide]((https://kafka.apache.org/quickstart)) for installation and setup instructions.
+  - Follow the [Kafka Quickstart Guide](https://kafka.apache.org/quickstart) for installation and setup instructions.
   - [Kafka Ubuntu Installation](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-20-04))
 
 - **MQTT- mosquitto 2.0.11**: 
-  - We use the 'paho-mqtt' library in Python. Follow the [mqtt guide]((https://mosquitto.org/blog/2021/06/version-2-0-11-released/))
+  - We use the 'paho-mqtt' library in Python. Follow the [mqtt guide](https://mosquitto.org/blog/2021/06/version-2-0-11-released/)
   - Install it using 'pip':
     ```bash
     pip install paho-mqtt
@@ -60,7 +60,7 @@ Ensure you have the following installed:
     ```
     ---
 ## Step 3: Start Kafka Server
-Follow the Kafka Quickstart Guide to start the Kafka server. [Kafka Quickstart Guide]((https://kafka.apache.org/quickstart))
+Follow the Kafka Quickstart Guide to start the Kafka server. [Kafka Quickstart Guide](https://kafka.apache.org/quickstart)
 
 ## Step 4: Run the Tool
 ```bash
