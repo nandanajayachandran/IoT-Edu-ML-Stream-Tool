@@ -76,13 +76,14 @@ Ensure you have the following installed:
     pip install paho-mqtt
     ```
 - **GUI- pyqt6**:
-- Install it using 'pip':
+  - Install it using 'pip':
     ```bash
     pip install pyqt6
     ```
     ---
 ## Step 3: Start Kafka Server
-Follow the Kafka Quickstart Guide to start the Kafka server. [Kafka Quickstart Guide](https://kafka.apache.org/quickstart)
+
+- Follow the Kafka Quickstart Guide to start the Kafka server. [Kafka Quickstart Guide](https://kafka.apache.org/quickstart)
 ---
 ## Step 4: Run the Tool
 ```bash
