@@ -66,7 +66,7 @@ Ensure you have the following installed:
 
 - **Kafka 3.6.0**: [Download Kafka](https://kafka.apache.org/downloads)
   - Follow the [Kafka Quickstart Guide](https://kafka.apache.org/quickstart) for installation and setup instructions.
-  - [Kafka Ubuntu Installation](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-20-04))
+  - [Kafka Ubuntu Installation](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-20-04)
 
 - **MQTT- mosquitto 2.0.11**: 
   - We use the 'paho-mqtt' library in Python. Follow the [mqtt guide](https://mosquitto.org/blog/2021/06/version-2-0-11-released/)
